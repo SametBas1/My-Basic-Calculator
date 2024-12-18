@@ -1,0 +1,10 @@
+C:\Users\Yasin\Desktop\Calculator-App\Calculator-App\bin\Debug\Calculator-App.exe.config
+C:\Users\Yasin\Desktop\Calculator-App\Calculator-App\bin\Debug\Calculator-App.exe
+C:\Users\Yasin\Desktop\Calculator-App\Calculator-App\bin\Debug\Calculator-App.pdb
+C:\Users\Yasin\Desktop\Calculator-App\Calculator-App\obj\Debug\Calculator-App.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\Calculator-App\Calculator-App\obj\Debug\Calculator_App.Properties.Resources.resources
+C:\Users\Yasin\Desktop\Calculator-App\Calculator-App\obj\Debug\Calculator-App.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\Calculator-App\Calculator-App\obj\Debug\Calculator-App.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Calculator-App\Calculator-App\obj\Debug\Calculator-App.exe
+C:\Users\Yasin\Desktop\Calculator-App\Calculator-App\obj\Debug\Calculator-App.pdb
+C:\Users\Yasin\Desktop\Calculator-App\Calculator-App\obj\Debug\Calculator_App.CALCULATOR.resources
